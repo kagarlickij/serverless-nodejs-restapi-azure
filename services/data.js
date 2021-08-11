@@ -21,7 +21,7 @@ const data = {
       {
         id: 4,
         task: 'task4',
-        assignee: 'assignee1000',
+        assignee: 'dmytro',
         status: 'completed'
       },
       
